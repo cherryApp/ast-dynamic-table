@@ -3,10 +3,10 @@
 ## Using this sample repo
 
 ### Clone this repository
-`git clone https://github.com/cherryApp/ast-order-pipe.git`
+`git clone https://github.com/cherryApp/ast-dynamic-table.git`
 
 ### Change the working directory
-`cd ast-order-pipe`
+`cd ast-dynamic-table`
 
 ### Install the json-server
 `npm i -g json-server`
